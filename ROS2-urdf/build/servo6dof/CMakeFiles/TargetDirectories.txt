@@ -1,0 +1,9 @@
+/home/alsnac/Codes/GIT/6DOF_Servo/ROS2-urdf/build/servo6dof/CMakeFiles/uninstall.dir
+/home/alsnac/Codes/GIT/6DOF_Servo/ROS2-urdf/build/servo6dof/CMakeFiles/servo6dof_uninstall.dir
+/home/alsnac/Codes/GIT/6DOF_Servo/ROS2-urdf/build/servo6dof/CMakeFiles/test.dir
+/home/alsnac/Codes/GIT/6DOF_Servo/ROS2-urdf/build/servo6dof/CMakeFiles/edit_cache.dir
+/home/alsnac/Codes/GIT/6DOF_Servo/ROS2-urdf/build/servo6dof/CMakeFiles/rebuild_cache.dir
+/home/alsnac/Codes/GIT/6DOF_Servo/ROS2-urdf/build/servo6dof/CMakeFiles/list_install_components.dir
+/home/alsnac/Codes/GIT/6DOF_Servo/ROS2-urdf/build/servo6dof/CMakeFiles/install.dir
+/home/alsnac/Codes/GIT/6DOF_Servo/ROS2-urdf/build/servo6dof/CMakeFiles/install/local.dir
+/home/alsnac/Codes/GIT/6DOF_Servo/ROS2-urdf/build/servo6dof/CMakeFiles/install/strip.dir

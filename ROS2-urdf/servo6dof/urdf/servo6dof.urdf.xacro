@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+
+
+<robot xmlns:xacro="http://www.ros.org/wiki/xacro" name="servo6dof">
+	
+	<xacro:property name="PI" value="3.14159"/>
+	<xacro:property name="effort" value="30.0"/>
+	<xacro:property name="velocity" value="10.0"/>
+
+	<link name="world"/>
+	<link name="base_link">
+		<visual>
+			<origin rpy="0 0 0" xyz="0.25 0.25 0"/>
+			<geometry>
+				<mesh filename="package://servo6dof/meshes/basement.stl" scale="6 6 6"/>
+			</geometry>
+		</visual>
+	</link>
+	<joint name="virtual_joint" type="fixed">
+		<parent link="world"/>
+		<child link="base_link"/>
+		<origin rpy="0 0 0" xyz="0 0 0"/>
+	</joint>
+
+	<link name="primeiro_elo">
+		<visual>
+			<origin rpy="0 0 0" xyz="0.25 0.55 0"/>
+			<geometry>
+				<mesh filename="package://servo6dof/meshes/manipulator_elo1.stl" scale="6 6 6"/>
+			</geometry>
+		</visual>
+	</link>
+	<joint name="joint_1" type="revolute">
+		<parent link="base_link"/>
+		<child link="primeiro_elo"/>
+		<axis xyz="0 0 1"/>
+		<origin rpy="0 0 -${PI/2}" xyz="0 -0.2 -0.01"/>
+		<limit lower="-${PI/2}" upper="${PI/2}" effort="${effort}" velocity="${velocity}"/>
+	</joint>
+</robot>
