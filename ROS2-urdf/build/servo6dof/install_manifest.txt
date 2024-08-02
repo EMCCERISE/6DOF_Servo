@@ -4,6 +4,7 @@
 /home/alsnac/Codes/GIT/6DOF_Servo/ROS2-urdf/install/servo6dof/share/servo6dof/meshes/manipulator_elo3.stl
 /home/alsnac/Codes/GIT/6DOF_Servo/ROS2-urdf/install/servo6dof/share/servo6dof/meshes/manipulator_elo4.stl
 /home/alsnac/Codes/GIT/6DOF_Servo/ROS2-urdf/install/servo6dof/share/servo6dof/meshes/manipulator_elo1.stl
+/home/alsnac/Codes/GIT/6DOF_Servo/ROS2-urdf/install/servo6dof/share/servo6dof/urdf/.servo6dof.urdf.xacro.swp
 /home/alsnac/Codes/GIT/6DOF_Servo/ROS2-urdf/install/servo6dof/share/servo6dof/urdf/servo6dof.urdf.xacro
 /home/alsnac/Codes/GIT/6DOF_Servo/ROS2-urdf/install/servo6dof/share/ament_index/resource_index/package_run_dependencies/servo6dof
 /home/alsnac/Codes/GIT/6DOF_Servo/ROS2-urdf/install/servo6dof/share/ament_index/resource_index/parent_prefix_path/servo6dof
