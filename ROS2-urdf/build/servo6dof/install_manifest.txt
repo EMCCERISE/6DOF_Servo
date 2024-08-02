@@ -1,9 +1,14 @@
 /home/alsnac/Codes/GIT/6DOF_Servo/ROS2-urdf/install/servo6dof/share/servo6dof/meshes/manipulator_garra_fixa.stl
+/home/alsnac/Codes/GIT/6DOF_Servo/ROS2-urdf/install/servo6dof/share/servo6dof/meshes/servo.stl
 /home/alsnac/Codes/GIT/6DOF_Servo/ROS2-urdf/install/servo6dof/share/servo6dof/meshes/basement.stl
 /home/alsnac/Codes/GIT/6DOF_Servo/ROS2-urdf/install/servo6dof/share/servo6dof/meshes/manipulator_elo2.stl
+/home/alsnac/Codes/GIT/6DOF_Servo/ROS2-urdf/install/servo6dof/share/servo6dof/meshes/base_garra.stl
 /home/alsnac/Codes/GIT/6DOF_Servo/ROS2-urdf/install/servo6dof/share/servo6dof/meshes/manipulator_elo3.stl
 /home/alsnac/Codes/GIT/6DOF_Servo/ROS2-urdf/install/servo6dof/share/servo6dof/meshes/manipulator_elo4.stl
+/home/alsnac/Codes/GIT/6DOF_Servo/ROS2-urdf/install/servo6dof/share/servo6dof/meshes/garra_pinca.stl
+/home/alsnac/Codes/GIT/6DOF_Servo/ROS2-urdf/install/servo6dof/share/servo6dof/meshes/garra_elo1.stl
 /home/alsnac/Codes/GIT/6DOF_Servo/ROS2-urdf/install/servo6dof/share/servo6dof/meshes/manipulator_elo1.stl
+/home/alsnac/Codes/GIT/6DOF_Servo/ROS2-urdf/install/servo6dof/share/servo6dof/meshes/garra_elo2.stl
 /home/alsnac/Codes/GIT/6DOF_Servo/ROS2-urdf/install/servo6dof/share/servo6dof/urdf/.servo6dof.urdf.xacro.swp
 /home/alsnac/Codes/GIT/6DOF_Servo/ROS2-urdf/install/servo6dof/share/servo6dof/urdf/servo6dof.urdf.xacro
 /home/alsnac/Codes/GIT/6DOF_Servo/ROS2-urdf/install/servo6dof/share/ament_index/resource_index/package_run_dependencies/servo6dof
