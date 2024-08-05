@@ -114,12 +114,12 @@
 		<child link="garra_elo1"/>
 		<axis xyz="0 0 1"/>
 		<origin rpy="0 0 0" xyz="-0.085 0.17 0.01"/>
-		<limit lower="-${PI/2}" upper="${PI/2}" effort="${effort}" velocity="${velocity}"/>
+		<limit lower="-${30*PI/180}" upper="${30*PI/180}" effort="${effort}" velocity="${velocity}"/>
 	</joint>
 
 	<link name="garra_elo2a">
 		<visual>
-			<origin rpy="0 0 0" xyz="0 0 0"/>
+			<origin rpy="0 0 0" xyz="-0.403 0.133 0"/>
 			<geometry>
 				<mesh filename="package://servo6dof/meshes/garra_elo2.stl" scale="6 6 6"/>
 			</geometry>
@@ -129,8 +129,25 @@
 		<parent link="base_garra"/>
 		<child link="garra_elo2a"/>
 		<axis xyz="0 0 1"/>
-		<origin rpy="0 0 0" xyz="-0.085 0.4 0.01"/>
-		<mimic joint="joint_6" multiplier="1" offset="0" />
+		<origin rpy="0 0 0" xyz="-0.03 0.27 0.01"/>
+		<mimic joint="joint_6" multiplier="1" offset="-0.1" />
 		<limit lower="-${PI/2}" upper="${PI/2}" effort="${effort}" velocity="${velocity}"/>
+	</joint>
+
+	<link name="garra_elo3a">
+		<visual>
+			<origin rpy="0 ${PI} 0" xyz="0.28 0.205 0"/>
+			<geometry>
+				<mesh filename="package://servo6dof/meshes/garra_pinca.stl" scale="6 6 6"/>
+			</geometry>
+		</visual>
+	</link>
+	<joint name="joint_garra_2" type="revolute">
+		<parent link="garra_elo1"/>
+		<child link="garra_elo3a"/>
+		<axis xyz="0 0 1"/>
+		<origin rpy="0 0 -${PI/2}" xyz="-0.136 0.136 0"/>
+		<mimic joint="joint_6" multiplier="-0.1" offset="-0.3" />
+		<limit lower="0" upper="0.2" effort="${effort}" velocity="${velocity}"/>
 	</joint>
 </robot>
