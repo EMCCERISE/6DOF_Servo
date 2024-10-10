@@ -1,0 +1,42 @@
+-- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/build/servo6dof_description
+-- Install configuration: ""
+-- Installing: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/meshes
+-- Installing: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/meshes/garra_pinca.stl
+-- Installing: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/meshes/garra_elo2.stl
+-- Installing: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/meshes/manipulator_elo3.stl
+-- Installing: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/meshes/base_garra.stl
+-- Installing: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/meshes/servo.stl
+-- Installing: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/meshes/basement.stl
+-- Installing: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/meshes/manipulator_elo1.stl
+-- Installing: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/meshes/manipulator_elo2.stl
+-- Installing: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/meshes/manipulator_garra_fixa.stl
+-- Installing: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/meshes/manipulator_elo4.stl
+-- Installing: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/meshes/garra_elo1.stl
+-- Installing: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/urdf
+-- Installing: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/urdf/servo6dof.urdf.xacro
+-- Installing: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/launch
+-- Installing: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/launch/display.launch.py
+-- Installing: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/rviz
+-- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/ament_index/resource_index/package_run_dependencies/servo6dof_description
+-- Installing: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/ament_index/resource_index/parent_prefix_path/servo6dof_description
+-- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/environment/ament_prefix_path.sh
+-- Installing: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/environment/path.sh
+-- Installing: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/environment/path.dsv
+-- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/local_setup.bash
+-- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/local_setup.sh
+-- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/local_setup.zsh
+-- Installing: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/local_setup.dsv
+-- Installing: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/package.dsv
+-- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/ament_index/resource_index/packages/servo6dof_description
+-- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/cmake/servo6dof_descriptionConfig.cmake
+-- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/cmake/servo6dof_descriptionConfig-version.cmake
+-- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/package.xml
