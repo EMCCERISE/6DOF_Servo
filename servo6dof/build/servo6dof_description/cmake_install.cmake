@@ -48,6 +48,7 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
     "/home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/servo6dof_description/urdf"
     "/home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/servo6dof_description/launch"
     "/home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/servo6dof_description/rviz"
+    "/home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/servo6dof_description/models"
     )
 endif()
 

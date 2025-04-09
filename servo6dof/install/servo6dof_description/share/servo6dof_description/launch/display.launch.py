@@ -10,7 +10,7 @@ def generate_launch_description():
 
 	model_arg = DeclareLaunchArgument(
 		name="model",
-		 default_value=os.path.join(get_package_share_directory("servo6dof"),'urdf','servo6dof.urdf.xacro'),
+		default_value=os.path.join(get_package_share_directory("servo6dof_description"),'urdf','servo6dof.urdf.xacro'),
 		description="Absolute path to the robot URDF file"
 	)
 
@@ -32,12 +32,12 @@ def generate_launch_description():
 		executable = "rviz2",
 		name = "rviz2",
 		output = "screen",
-		arguments = ["-d", os.path.join(get_package_share_directory("servo6dof"),"rviz","display.rviz")
+		arguments = ["-d", os.path.join(get_package_share_directory("servo6dof_description"),"rviz","display.rviz")]
 	)
 
 	return LaunchDescription([
 		model_arg,
 		robot_state_publisher,
-		robot_state_publisher_gui,
+		joint_state_publisher_gui,
 		rviz_node
 	])

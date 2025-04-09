@@ -1,0 +1,4 @@
+Invoking command in '/home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/build/servo6dof_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/build/servo6dof_description -- -j16 -l16
+Invoked command in '/home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/build/servo6dof_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/build/servo6dof_description -- -j16 -l16
+Invoking command in '/home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/build/servo6dof_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/build/servo6dof_description
+Invoked command in '/home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/build/servo6dof_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/build/servo6dof_description

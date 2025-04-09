@@ -1,0 +1,56 @@
+[0.018s] Invoking command in '/home/alsnac/6DOF_Servo/servo6dof/servo6dof_description/build/servo6dof_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/alsnac/ws_moveit/install/moveit_configs_utils:/home/alsnac/ws_moveit/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake /home/alsnac/6DOF_Servo/servo6dof/servo6dof_description -DCMAKE_INSTALL_PREFIX=/home/alsnac/6DOF_Servo/servo6dof/servo6dof_description/install/servo6dof_description
+[0.096s] -- The C compiler identification is GNU 11.4.0
+[0.162s] -- The CXX compiler identification is GNU 11.4.0
+[0.170s] -- Detecting C compiler ABI info
+[0.269s] -- Detecting C compiler ABI info - done
+[0.275s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.276s] -- Detecting C compile features
+[0.276s] -- Detecting C compile features - done
+[0.279s] -- Detecting CXX compiler ABI info
+[0.388s] -- Detecting CXX compiler ABI info - done
+[0.395s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.395s] -- Detecting CXX compile features
+[0.395s] -- Detecting CXX compile features - done
+[0.404s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.573s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.750s] -- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.874s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[0.874s] -- Configured cppcheck include dirs: 
+[0.874s] -- Configured cppcheck exclude dirs and/or files: 
+[0.880s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.882s] -- Added test 'lint_cmake' to check CMake code style
+[0.885s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.892s] -- Added test 'uncrustify' to check C / C++ code style
+[0.892s] -- Configured uncrustify additional arguments: 
+[0.894s] -- Added test 'xmllint' to check XML markup files
+[0.897s] -- Configuring done
+[0.900s] -- Generating done
+[0.901s] -- Build files have been written to: /home/alsnac/6DOF_Servo/servo6dof/servo6dof_description/build/servo6dof_description
+[0.907s] Invoked command in '/home/alsnac/6DOF_Servo/servo6dof/servo6dof_description/build/servo6dof_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/alsnac/ws_moveit/install/moveit_configs_utils:/home/alsnac/ws_moveit/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake /home/alsnac/6DOF_Servo/servo6dof/servo6dof_description -DCMAKE_INSTALL_PREFIX=/home/alsnac/6DOF_Servo/servo6dof/servo6dof_description/install/servo6dof_description
+[0.909s] Invoking command in '/home/alsnac/6DOF_Servo/servo6dof/servo6dof_description/build/servo6dof_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/alsnac/ws_moveit/install/moveit_configs_utils:/home/alsnac/ws_moveit/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/alsnac/6DOF_Servo/servo6dof/servo6dof_description/build/servo6dof_description -- -j16 -l16
+[0.973s] Invoked command in '/home/alsnac/6DOF_Servo/servo6dof/servo6dof_description/build/servo6dof_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/alsnac/ws_moveit/install/moveit_configs_utils:/home/alsnac/ws_moveit/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/alsnac/6DOF_Servo/servo6dof/servo6dof_description/build/servo6dof_description -- -j16 -l16
+[0.989s] Invoking command in '/home/alsnac/6DOF_Servo/servo6dof/servo6dof_description/build/servo6dof_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/alsnac/ws_moveit/install/moveit_configs_utils:/home/alsnac/ws_moveit/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/alsnac/6DOF_Servo/servo6dof/servo6dof_description/build/servo6dof_description
+[1.001s] -- Install configuration: ""
+[1.001s] -- Installing: /home/alsnac/6DOF_Servo/servo6dof/servo6dof_description/install/servo6dof_description/share/servo6dof_description/meshes
+[1.001s] -- Installing: /home/alsnac/6DOF_Servo/servo6dof/servo6dof_description/install/servo6dof_description/share/servo6dof_description/meshes/garra_pinca.stl
+[1.002s] -- Installing: /home/alsnac/6DOF_Servo/servo6dof/servo6dof_description/install/servo6dof_description/share/servo6dof_description/meshes/garra_elo2.stl
+[1.002s] -- Installing: /home/alsnac/6DOF_Servo/servo6dof/servo6dof_description/install/servo6dof_description/share/servo6dof_description/meshes/manipulator_elo3.stl
+[1.005s] -- Installing: /home/alsnac/6DOF_Servo/servo6dof/servo6dof_description/install/servo6dof_description/share/servo6dof_description/meshes/base_garra.stl
+[1.006s] -- Installing: /home/alsnac/6DOF_Servo/servo6dof/servo6dof_description/install/servo6dof_description/share/servo6dof_description/meshes/servo.stl
+[1.007s] -- Installing: /home/alsnac/6DOF_Servo/servo6dof/servo6dof_description/install/servo6dof_description/share/servo6dof_description/meshes/basement.stl
+[1.009s] -- Installing: /home/alsnac/6DOF_Servo/servo6dof/servo6dof_description/install/servo6dof_description/share/servo6dof_description/meshes/manipulator_elo1.stl
+[1.011s] -- Installing: /home/alsnac/6DOF_Servo/servo6dof/servo6dof_description/install/servo6dof_description/share/servo6dof_description/meshes/manipulator_elo2.stl
+[1.011s] -- Installing: /home/alsnac/6DOF_Servo/servo6dof/servo6dof_description/install/servo6dof_description/share/servo6dof_description/meshes/manipulator_garra_fixa.stl
+[1.012s] -- Installing: /home/alsnac/6DOF_Servo/servo6dof/servo6dof_description/install/servo6dof_description/share/servo6dof_description/meshes/manipulator_elo4.stl
+[1.013s] -- Installing: /home/alsnac/6DOF_Servo/servo6dof/servo6dof_description/install/servo6dof_description/share/servo6dof_description/meshes/garra_elo1.stl
+[1.013s] -- Installing: /home/alsnac/6DOF_Servo/servo6dof/servo6dof_description/install/servo6dof_description/share/servo6dof_description/urdf
+[1.013s] -- Installing: /home/alsnac/6DOF_Servo/servo6dof/servo6dof_description/install/servo6dof_description/share/servo6dof_description/urdf/servo6dof.urdf.xacro
+[1.013s] -- Installing: /home/alsnac/6DOF_Servo/servo6dof/servo6dof_description/install/servo6dof_description/share/servo6dof_description/launch
+[1.014s] [31mCMake Error at cmake_install.cmake:46 (file):
+[1.014s]   file INSTALL cannot find
+[1.014s]   "/home/alsnac/6DOF_Servo/servo6dof/servo6dof_description/rviz": No such
+[1.014s]   file or directory.
+[1.014s] 
+[1.014s] [0m
+[1.014s] -- Installing: /home/alsnac/6DOF_Servo/servo6dof/servo6dof_description/install/servo6dof_description/share/servo6dof_description/launch/display.launch.py
+[1.015s] Invoked command in '/home/alsnac/6DOF_Servo/servo6dof/servo6dof_description/build/servo6dof_description' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/alsnac/ws_moveit/install/moveit_configs_utils:/home/alsnac/ws_moveit/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/alsnac/6DOF_Servo/servo6dof/servo6dof_description/build/servo6dof_description

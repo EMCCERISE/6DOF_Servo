@@ -1,0 +1,6 @@
+[31mCMake Error at cmake_install.cmake:46 (file):
+  file INSTALL cannot find
+  "/home/alsnac/6DOF_Servo/servo6dof/servo6dof_description/rviz": No such
+  file or directory.
+
+[0m

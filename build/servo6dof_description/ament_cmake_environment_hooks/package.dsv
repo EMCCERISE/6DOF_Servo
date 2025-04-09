@@ -1,0 +1,4 @@
+source;share/servo6dof_description/local_setup.bash
+source;share/servo6dof_description/local_setup.dsv
+source;share/servo6dof_description/local_setup.sh
+source;share/servo6dof_description/local_setup.zsh
