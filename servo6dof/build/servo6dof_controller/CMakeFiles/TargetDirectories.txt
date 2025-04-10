@@ -1,0 +1,9 @@
+/home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/build/servo6dof_controller/CMakeFiles/uninstall.dir
+/home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/build/servo6dof_controller/CMakeFiles/servo6dof_controller_uninstall.dir
+/home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/build/servo6dof_controller/CMakeFiles/test.dir
+/home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/build/servo6dof_controller/CMakeFiles/edit_cache.dir
+/home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/build/servo6dof_controller/CMakeFiles/rebuild_cache.dir
+/home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/build/servo6dof_controller/CMakeFiles/list_install_components.dir
+/home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/build/servo6dof_controller/CMakeFiles/install.dir
+/home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/build/servo6dof_controller/CMakeFiles/install/local.dir
+/home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/build/servo6dof_controller/CMakeFiles/install/strip.dir

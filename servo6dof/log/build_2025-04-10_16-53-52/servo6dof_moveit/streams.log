@@ -1,0 +1,20 @@
+[0.024s] Invoking command in '/home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/build/servo6dof_moveit': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/alsnac/ws_moveit/install/moveit_configs_utils:/home/alsnac/ws_moveit/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/build/servo6dof_moveit -- -j16 -l16
+[0.114s] Invoked command in '/home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/build/servo6dof_moveit' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/alsnac/ws_moveit/install/moveit_configs_utils:/home/alsnac/ws_moveit/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/build/servo6dof_moveit -- -j16 -l16
+[0.116s] Invoking command in '/home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/build/servo6dof_moveit': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/alsnac/ws_moveit/install/moveit_configs_utils:/home/alsnac/ws_moveit/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/build/servo6dof_moveit
+[0.131s] -- Install configuration: ""
+[0.131s] -- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_moveit/share/ament_index/resource_index/package_run_dependencies/servo6dof_moveit
+[0.131s] -- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_moveit/share/ament_index/resource_index/parent_prefix_path/servo6dof_moveit
+[0.131s] -- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_moveit/share/servo6dof_moveit/environment/ament_prefix_path.sh
+[0.132s] -- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_moveit/share/servo6dof_moveit/environment/ament_prefix_path.dsv
+[0.132s] -- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_moveit/share/servo6dof_moveit/environment/path.sh
+[0.132s] -- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_moveit/share/servo6dof_moveit/environment/path.dsv
+[0.132s] -- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_moveit/share/servo6dof_moveit/local_setup.bash
+[0.132s] -- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_moveit/share/servo6dof_moveit/local_setup.sh
+[0.132s] -- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_moveit/share/servo6dof_moveit/local_setup.zsh
+[0.132s] -- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_moveit/share/servo6dof_moveit/local_setup.dsv
+[0.132s] -- Installing: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_moveit/share/servo6dof_moveit/package.dsv
+[0.132s] -- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_moveit/share/ament_index/resource_index/packages/servo6dof_moveit
+[0.133s] -- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_moveit/share/servo6dof_moveit/cmake/servo6dof_moveitConfig.cmake
+[0.133s] -- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_moveit/share/servo6dof_moveit/cmake/servo6dof_moveitConfig-version.cmake
+[0.133s] -- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_moveit/share/servo6dof_moveit/package.xml
+[0.159s] Invoked command in '/home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/build/servo6dof_moveit' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/alsnac/ws_moveit/install/moveit_configs_utils:/home/alsnac/ws_moveit/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/build/servo6dof_moveit

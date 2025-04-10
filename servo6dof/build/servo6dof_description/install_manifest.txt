@@ -13,7 +13,6 @@
 /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/urdf/servo6dof_gazebo.xacro
 /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/urdf/servo6dof.urdf.xacro
 /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/urdf/servo6dof.urdf
-/home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/urdf/servo6dof_gazebo.urdf
 /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/launch/display.launch.py
 /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/launch/gazebo.launch.py
 /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/rviz/display.rviz

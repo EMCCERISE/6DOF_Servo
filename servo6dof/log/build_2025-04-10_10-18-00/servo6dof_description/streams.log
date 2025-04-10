@@ -1,0 +1,55 @@
+[0.024s] Invoking command in '/home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/build/servo6dof_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/alsnac/arduinobot_ws/install/arduinobot_py_examples:/home/alsnac/ws_moveit/install/moveit_configs_utils:/home/alsnac/ws_moveit/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/build/servo6dof_description -- -j16 -l16
+[0.085s] Invoked command in '/home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/build/servo6dof_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/alsnac/arduinobot_ws/install/arduinobot_py_examples:/home/alsnac/ws_moveit/install/moveit_configs_utils:/home/alsnac/ws_moveit/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/build/servo6dof_description -- -j16 -l16
+[0.101s] Invoking command in '/home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/build/servo6dof_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/alsnac/arduinobot_ws/install/arduinobot_py_examples:/home/alsnac/ws_moveit/install/moveit_configs_utils:/home/alsnac/ws_moveit/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/build/servo6dof_description
+[0.113s] -- Install configuration: ""
+[0.113s] -- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/meshes
+[0.113s] -- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/meshes/garra_pinca.stl
+[0.113s] -- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/meshes/garra_elo2.stl
+[0.113s] -- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/meshes/manipulator_elo3.stl
+[0.113s] -- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/meshes/base_garra.stl
+[0.113s] -- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/meshes/servo.stl
+[0.113s] -- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/meshes/basement.stl
+[0.114s] -- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/meshes/manipulator_elo1.stl
+[0.114s] -- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/meshes/manipulator_elo2.stl
+[0.114s] -- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/meshes/manipulator_garra_fixa.stl
+[0.114s] -- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/meshes/manipulator_elo4.stl
+[0.114s] -- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/meshes/garra_elo1.stl
+[0.114s] -- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/urdf
+[0.114s] -- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/urdf/servo6dof_ros2_control.xacro
+[0.115s] -- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/urdf/servo6dof_gazebo.xacro
+[0.115s] -- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/urdf/servo6dof.urdf.xacro
+[0.115s] -- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/urdf/servo6dof.urdf
+[0.115s] -- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/launch
+[0.115s] -- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/launch/display.launch.py
+[0.115s] -- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/launch/gazebo.launch.py
+[0.115s] -- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/rviz
+[0.115s] -- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/rviz/display.rviz
+[0.115s] -- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/models
+[0.115s] -- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/models/sun
+[0.115s] -- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/models/sun/model-1_3.sdf
+[0.115s] -- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/models/sun/model.sdf
+[0.115s] -- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/models/sun/model-1_4.sdf
+[0.115s] -- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/models/sun/model.config
+[0.115s] -- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/models/sun/model-1_2.sdf
+[0.115s] -- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/models/ground_plane
+[0.115s] -- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/models/ground_plane/model-1_3.sdf
+[0.115s] -- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/models/ground_plane/model.sdf
+[0.116s] -- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/models/ground_plane/model-1_4.sdf
+[0.116s] -- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/models/ground_plane/model.config
+[0.116s] -- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/models/ground_plane/model-1_2.sdf
+[0.116s] -- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/ament_index/resource_index/package_run_dependencies/servo6dof_description
+[0.116s] -- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/ament_index/resource_index/parent_prefix_path/servo6dof_description
+[0.116s] -- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/environment/ament_prefix_path.sh
+[0.116s] -- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/environment/ament_prefix_path.dsv
+[0.116s] -- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/environment/path.sh
+[0.116s] -- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/environment/path.dsv
+[0.116s] -- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/local_setup.bash
+[0.116s] -- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/local_setup.sh
+[0.116s] -- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/local_setup.zsh
+[0.117s] -- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/local_setup.dsv
+[0.117s] -- Installing: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/package.dsv
+[0.117s] -- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/ament_index/resource_index/packages/servo6dof_description
+[0.117s] -- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/cmake/servo6dof_descriptionConfig.cmake
+[0.117s] -- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/cmake/servo6dof_descriptionConfig-version.cmake
+[0.117s] -- Up-to-date: /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/install/servo6dof_description/share/servo6dof_description/package.xml
+[0.119s] Invoked command in '/home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/build/servo6dof_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/alsnac/arduinobot_ws/install/arduinobot_py_examples:/home/alsnac/ws_moveit/install/moveit_configs_utils:/home/alsnac/ws_moveit/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/alsnac/Codes/GIT/6DOF_Servo/servo6dof/build/servo6dof_description

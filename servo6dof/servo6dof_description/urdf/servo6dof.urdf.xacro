@@ -2,6 +2,11 @@
 
 <robot xmlns:xacro="http://www.ros.org/wiki/xacro" name="servo6dof_description">
 
+	<xacro:arg name="is_ignition" default="true"/>
+
+	<xacro:include filename="$(find servo6dof_description)/urdf/servo6dof_gazebo.xacro"/>
+	<xacro:include filename="$(find servo6dof_description)/urdf/servo6dof_ros2_control.xacro"/>
+
 	<xacro:property name="PI" value="3.14159"/>
 	<xacro:property name="effort" value="30.0"/>
 	<xacro:property name="velocity" value="10.0"/>
@@ -13,16 +18,6 @@
 					 iyy="1.0" iyz="0.0"
 					 izz="1.0"/>
 		</inertial>
-	</xacro:macro>
-
-	<xacro:macro name="default_transmission" params="number">
-		<transmission name="transmission_${number}">
-			<plugin>transmission_interface/SimpleTransmission</plugin>
-			<actuator name="motor_${number}" role="acuator1"/>
-			<joint name="joint_${number}" role="joint1">
-				<mechanical_reduction>1.0</mechanical_reduction>
-			</joint>
-		</transmission>
 	</xacro:macro>
 
 	<link name="world"/>
@@ -304,10 +299,4 @@
 		<limit effort="${effort}" velocity="${velocity}"/>
 	</joint>
 
-	<xacro:default_transmission number="1"/>
-	<xacro:default_transmission number="2"/>
-	<xacro:default_transmission number="3"/>
-	<xacro:default_transmission number="4"/>
-	<xacro:default_transmission number="5"/>
-	<xacro:default_transmission number="6"/>
 </robot>
